@@ -1,0 +1,2 @@
+# laravel-bootstrap4-paginator
+Laravelのペジネーターテンプレートをbootstrap4に対応させる
